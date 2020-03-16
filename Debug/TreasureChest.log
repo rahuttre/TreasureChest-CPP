@@ -1,0 +1,4 @@
+﻿  TreasureChest.cpp
+D:\School and Classes\Southern New Hampshire U\IT 312 - Software Development C++\TreasureChest\TreasureChest.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\School and Classes\Southern New Hampshire U\IT 312 - Software Development C++\TreasureChest\TreasureChest.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TreasureChest.vcxproj -> D:\School and Classes\Southern New Hampshire U\IT 312 - Software Development C++\TreasureChest\Debug\TreasureChest.exe
